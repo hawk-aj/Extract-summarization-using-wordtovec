@@ -1,5 +1,5 @@
 # extract-summarization
-summary extraction using 100d glove word vector model and pagerank algorithm 
+summary extraction using pretrained 100d glove word vector model and pagerank algorithm 
 
 
 url for downloading the pretrained glove word vector models (warning file size 822 MB)
