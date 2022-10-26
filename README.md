@@ -4,6 +4,7 @@ The program generates an extract summary of the given text by converting each se
 The gui was created using tkinter and presents a basic layout with two textboxes one for input and the other for presenting the summarized output.
 
 >Screenshots
+
 ![Sample 1](./Screenshots/2022-10-26%20(1).png)
 ![Sample 2](./Screenshots/2022-10-26%20(2).png)
 
